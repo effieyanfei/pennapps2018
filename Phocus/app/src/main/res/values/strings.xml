@@ -7,5 +7,11 @@
     <string name="minutes">Minutes: </string>
     <string name="zero">0</string>
     <string name="emergencystop">EMERGENCY STOP</string>
+<<<<<<< HEAD
     <string name="facebook_app_id">Effie Yanfei Li</string>
+=======
+    <string name="alert_message">Are you sure you want to quit?</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+>>>>>>> 76f51f71b031e81910eb7f57d71edf76871028f8
 </resources>
